@@ -1,0 +1,138 @@
+/* #stylesheet */
+body{
+  overflow-x: hidden;
+}
+.aston{
+  align-items: center;
+  margin-right: 50px;
+
+
+}
+
+
+.alert{
+  border-radius: 1rem;
+  text-align: center;
+  color: none;
+  background-color: #eeeeee;
+  align-items: center;
+  width: 50rem;
+  margin-left: 12rem;
+  margin-bottom: 0.5rem;
+}
+.dan {
+  font-size: small;
+}
+#mypage{
+  border-radius: 1.20rem;
+  padding: 0rem;
+  width: 30rem;
+  outline: none;
+}
+#btn{
+  border-radius: 1rem;
+  width: 4rem;
+  color: green;
+  outline: none;
+}
+.ate {
+  border-radius: 1rem;
+  background-color: #e0e0e0;
+  text-align: center;
+  padding:0,5px;
+  color: green;
+  width: 50rem;
+  margin-left: 12rem;
+  margin-bottom: 0.5rem;
+}
+.star{
+  background-color: #eeeeee;
+}
+.Anthony{
+  background-color: #e0e0e0;
+}
+.alt{
+  background-color: #eeeeee;
+  margin-bottom: 20px;
+}
+.pic{
+  border-radius: 1rem;
+  width: 50rem;
+  margin-left: 12rem;
+  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
+}
+.bee{
+  border-radius: 1rem;
+  background-color: #e0e0e0;
+  text-align: center;
+  width: 50rem;
+  margin-left: 12rem;
+  margin-bottom: 0.5rem;
+}
+.benz{
+  border-radius: 1rem;
+  width: 50rem;
+  margin-left: 12rem;
+  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
+}
+.said{
+  border-radius: 1rem;
+  width: 50rem;
+  margin-left: 12rem;
+  background-color: #e0e0e0;
+  text-align: center;
+}
+.dew{
+  border-radius: 1rem;
+  width: 50rem;
+  margin-left: 12rem;
+  margin-bottom: 0.5rem;
+  background-color: #eeeeee;
+  text-align: center;
+  font-size: small;
+}
+.dove{
+  border-radius: 1rem;
+  width: 50rem;
+  margin-left: 12rem;
+}
+.milk{
+  text-align: center;
+}
+.money{
+  border-radius: 2rem;
+  width: 50rem;
+  margin-left: 12rem;
+  text-align: center;
+}
+.honey{
+  background-color: #eeeeee;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.alien{
+  background-color: #e0e0e0;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#venus{
+  border-radius: 1.20rem;
+  padding: 0rem;
+  width: 30rem;
+  outline: none;
+}
+.btn{
+  border-radius: 1rem;
+  width: 4rem;
+  color: green;
+  outline: none;
+}
+.will{
+  text-align: center;
+  background-color: #e0e0e0;
+  font-size: small;
+}
